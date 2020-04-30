@@ -1,4 +1,5 @@
-NAME="ALICE"
+NAME="BOB"
+
 SURNAME="SECOND"
 
 print("Hola " + NAME + " " + SURNAME);
